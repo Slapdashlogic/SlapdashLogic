@@ -1,0 +1,6 @@
+# Author details
+john_doe:
+    name: John Doe
+    email: john@doe.com
+    bio: I'm John Doe.
+    avatar: "images/avatars/user-05.jpg"
