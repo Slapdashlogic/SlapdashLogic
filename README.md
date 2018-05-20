@@ -3,9 +3,9 @@ SlapdashLogic-Live!
 
 ### Setup
 
-(Ubuntu/Mac OS installation) https://jekyllrb.com/docs/installation/
-(Windows installation) https://jekyllrb.com/docs/windows/
-(Building and previewing site) https://jekyllrb.com/docs/usage/
+- (Ubuntu/Mac OS installation) https://jekyllrb.com/docs/installation/
+- (Windows installation) https://jekyllrb.com/docs/windows/
+- (Building and previewing site) https://jekyllrb.com/docs/usage/
 
 Install the project Gemfile: `bundle install`
 
